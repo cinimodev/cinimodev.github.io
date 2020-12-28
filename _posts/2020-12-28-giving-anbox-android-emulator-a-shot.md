@@ -8,6 +8,14 @@ tags: android, andbox, linux_desktop,
 
 ![Anbox window open on Pop_OS desktop](https://obscurednarration.com/wp-content/uploads/2020/12/2020-12-15_19-31.png)
 
+**Listen to this post. Narrated by me!**
+
+<iframe src="https://anchor.fm/dctalks/embed/episodes/Giving-Anbox-Android-emulator-a-shot-entmh9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+**Subscribe to get all narrated posts**
+
+[RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)
+
 After seeing the news of a new Ubuntu-based distro using /e/ OS app store, my interest was piqued about running Android apps on my desktop. Having recently played around with screen mirroring on my Pop_OS desktop, running the apps directly seems like a much better experience.
 
 Testing Ubuntu Web Remix with beta /e/ OS app store support has been fun, but I would rather have it on my desktop of choice. Which for the most part is the one I already have installed because I don’t want to go through all the work of configuring my computer. Pop_OS has been great and I haven’t seen a distro that has made me want to go through all that work for a DE change.
@@ -18,7 +26,7 @@ This is a very established way of installing Android apps on the desktop. You ca
 ## Install the Anbox snap
 I ended up going the snap route, which installing the Anbox snap is very simple:
 
- `$ sudo snap install --devmode --beta anbox`
+ `$ sudo snap install --devmode --beta anbox`  
 There are a couple notes in the Git repo about running the snap, in particular it using `--devmode` and automatic updates.
 
 > At the moment we require the use of --devmode as the Anbox snap is not yet fully confined. Work has started with the upstream snapd project to get support for full confinement.
@@ -34,9 +42,9 @@ There are a couple notes in the Git repo about running the snap, in particular i
 [Anbox Github](ttps://github.com/anbox/anbox/blob/master/README.md)  
 
 ## Install and Run Android Applications
-Sideloading applications using `adb` is easy.
+Sideloading applications using `adb` is easy.  
 
-`adb install someapp.apk`
+`adb install someapp.apk`  
 
 The Google Play Store will not work as is, because it relies on the proprietary Google Play Services, which are not installed. This is an important point, because Anbox also doesn’t come with MicroG GmsCore installed either. This is one aspect that I truly enjoy about using /e/ OS, which is able to run nearly any GSF dependent app. In recent tests on my Honor 5x running /e/ OS I haven’t run into any application that hasn’t worked, minus official Google Apps that I’m not installing on my Google-free Android instance.
 
@@ -74,4 +82,19 @@ I tried all three of the options listed on the Abox signature spoofing page to g
 
 It does work fantastically for F-Droid and non-GSF dependent apps. But the number of mobile apps I would run on my desktop that don’t already have a native version and/or replacement is minuscule.
 
-I have HUGE hopes for Ubuntu Web Remix and a direct collaboration with /e/ OS app store. Instead of attempting to roll-my-own Anbox + MicroG, this distro could solve that problem, including making the code available for others to easily implement a similar framework. Especially for a distro based on Ubuntu, like Ubuntu Web Remix and Pop_OS.
+I have HUGE hopes for Ubuntu Web Remix and a direct collaboration with /e/ OS app store. Instead of attempting to roll-my-own Anbox + MicroG, this distro could solve that problem, including making the code available for others to easily implement a similar framework. Especially for a distro based on Ubuntu, like Ubuntu Web Remix and Pop_OS.  
+
+* * *
+
+### Contact me
+
+Would love to hear from you on this topic!
+
+**Email**: obscurednarration@gmail.com
+**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
+
+### Digital marketing professional
+
+Into digital marketing? Get a newsletter all about the best stuff in digital marketing over the last week plus deep-dives into this industry.
+
+[Newsletter](https://corrteksolutions.com/marketing-mixer-newsletter/)
