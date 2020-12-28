@@ -30,7 +30,7 @@ There are a couple notes in the Git repo about running the snap, in particular i
 > `$ snap info anbox`
 
 
-[Anbox Github](ttps://github.com/anbox/anbox/blob/master/README.md)  
+[Anbox Github](https://github.com/anbox/anbox/blob/master/README.md)  
 
 ## Install and Run Android Applications
 Sideloading applications using `adb` is easy.
