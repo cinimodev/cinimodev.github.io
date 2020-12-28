@@ -18,7 +18,7 @@ View the original GDoc file.
 
 **Subscribe to get all narrated posts**
 
-**[RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)**
+[RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)
 
 Something I both love and loathe are end of year tech lists. Since affiliate income has proliferated online, nearly all of these lists are filled with products the writer has never used or even seen in real life. The lists are filled with items that are either in the perfect range for quality affiliate payouts or that are already so popular they sell themselves.
 
@@ -29,19 +29,6 @@ So, this is my attempt at one of those trustworthy lists. To be fair, I won’t 
 The transition to WFH, homeschool for the kids, plus moving across the country after being laid off has put a different perspective on my favorite tech of 2020. I’m sure plenty of lists will say unironically Zoom or any of the multitude of virtual communication platforms that enabled remote anything, from fitness to work to book clubs. For me, being in this house 24 hours a day for months on end allowed me to truly experiment with my tech configuration, home lab, and network.
 
 This year I finally learned Docker and other container technologies by increasing my self-hosted home lab to essentially replace all the cloud services I personally use. I had dabbled in this space for some time, however being home meant there was less and less reasons why my data needed to leave my LAN.
-
-* * *
-
-#### More from me
-
-- ![Screenshot of my Pop OS desktop with the Anbox app starting.](https://obscurednarration.com/wp-content/uploads/2020/12/2020-12-15_19-31-150x150.png)
-
-    [Giving Anbox Android emulator a shot](https://obscurednarration.com/giving-anbox-android-emulator-a-shot/)
-- ![Stylized text of movie "Never Too Young To Die". The section "To Die" is written like its in blood. Bottom left is chyron with "Go With The Heat Podcast, Episode number 155"](https://obscurednarration.com/wp-content/uploads/2020/08/GWTH-YSWI-NTYTD-YouTube-Thumb-20200731-150x150.png)
-
-    [A Deeper Look: Never Too Young To Die](https://obscurednarration.com/a-deeper-look-never-too-young-to-die/)
-
-* * *
 
 As a part-time prepper, I had always imagined some sort of catastrophe that would require us to severely reduce our budget and eliminate our unfettered access to the internet. I guess you could say I’m less of a prepper and more of an archivist. When I lost my job and we moved from Phoenix back to Seattle, plus the failings of our countries leaders, my focus on owning what I found valuable only increased. Why pay for Spotify when one missed payment takes it all away? Why subscribe to Netflix when $17 is worth two meals? Why pay a fee to store my files remotely just to move them from one device to another? Why upgrade devices when the fleeting enthusiasm wears off before the garbage picks up the empty boxes on trash day?
 
@@ -61,8 +48,8 @@ From now on my budget only has room for devices with upgradeable RAM and hard dr
 
 Would love to hear from you on this topic!
 
-**Email**: obscurednarration@gmail.com
-**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
+**Email**: obscurednarration@gmail.com  
+**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)  
 
 ### Get more
 

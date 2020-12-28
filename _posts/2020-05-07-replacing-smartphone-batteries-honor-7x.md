@@ -18,7 +18,7 @@ There are plenty of reasons to make this accessible for more users, from environ
 
 <iframe src="https://anchor.fm/dctalks/embed/episodes/The-Economic-Need-for-Replaceable-Batteries--DC-Tech-Talks-Podcast-edp2m3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-**Listen now, no subscription required: [RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)**
+[RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)
 
 * * *
 
@@ -50,24 +50,6 @@ Over time, as the battery degrades, the device will slow itself down. This was h
 
 Yes, there are absolutely other reasons a phone would slow down. But, if your primary uses are taking photos, email, Facebook, Instagram and banking/bills, replacing the battery would be more than enough to keep the user happy. In fact, it is more than enough to keep me happy.
 
-* * *
-
-#### Read more of my thoughts as an avid Android user.
-
-[![](https://obscurednarration.com/wp-content/uploads/2019/08/20190817_145626_0000.png)](https://obscurednarration.com/lite-apps-on-android-for-the-masses/)
-
-## [Lite Apps on Android for the Masses](https://obscurednarration.com/lite-apps-on-android-for-the-masses/)
-
-[![](https://obscurednarration.com/wp-content/uploads/2019/09/Can-Android-be-good-without-google_.png)](https://obscurednarration.com/the-bliss-of-e-os-the-ungoogled-android/)
-
-## [The Bliss of /e/ OS – The UnGoogled Android](https://obscurednarration.com/the-bliss-of-e-os-the-ungoogled-android/)
-
-[![](https://obscurednarration.com/wp-content/uploads/2020/04/Budget-Android-phones.png)](https://obscurednarration.com/suddenly-need-a-budget-android-phone-start-here/)
-
-## [Suddenly need a budget Android phone? Start here.](https://obscurednarration.com/suddenly-need-a-budget-android-phone-start-here/)
-
-* * *
-
 ## The swap
 
 For the Honor 7x I ordered another battery from eBay. This time the replacement was only $15 with free shipping. It came much faster than I anticipated, only taking two days from Southern California to Phoenix. The kit came with the battery, adhesive to hold it in place and all the tools needed to do the job (which I didn’t need, but a nice touch).
@@ -88,21 +70,6 @@ Would love to hear from you on this topic!
 
 **Email**: obscurednarration@gmail.com
 **Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
-
-### Get more
-
-These blogs are just the tip of the iceberg. To go deeper and hear more stories around the tech and life around these journals, check out the **[DC Tech Talks Podcast](https://obscurednarration.com/podcast/)**.
-
-[Podcast RSS](https://feeds.feedburner.com/dctalkspodcast)
-
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/dc-talks-podcast/id1450176844?ign-mpt=uo%3D4&mt=2)
-
-[Spotify](https://open.spotify.com/show/7m4OY20Xmi1f5LEAkCqL2B)
-
-**Need even more?**
-Check out my sister podcast [Go With The Heat](http://gowiththeheat.com/). We just relaunched the show after going through all of the 80’s goodness that was Miami Vice. The updated show is now going deeper into the greatest era of action movies, 1975 – 1995.
-
-[Go With The Heat Podcast](http://gowiththeheat.com/)
 
 ### Digital marketing professional
 
