@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Giving Anbox Android emulator a shot"
-date:   2020-12-16 08:07:08 -0800
+date:   2020-12-28 00:07:08 -0800
 category: blog
 tags: android, anbox, emulation, linux_desktop
 ---
