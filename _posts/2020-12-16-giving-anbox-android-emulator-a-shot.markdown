@@ -2,7 +2,8 @@
 layout: post
 title:  "Giving Anbox Android emulator a shot"
 date:   2020-12-16 08:07:08 -0800
-categories: blog android
+category: blog
+tags: android, anbox, emulation, linux_desktop
 ---
 
 ![Anbox window open on Pop_OS desktop](https://obscurednarration.com/wp-content/uploads/2020/12/2020-12-15_19-31.png)
@@ -30,7 +31,7 @@ There are a couple notes in the Git repo about running the snap, in particular i
 > `$ snap info anbox`
 
 
-[Anbox Github](ttps://github.com/anbox/anbox/blob/master/README.md)  
+[Anbox Github](https://github.com/anbox/anbox/blob/master/README.md)  
 
 ## Install and Run Android Applications
 Sideloading applications using `adb` is easy.
