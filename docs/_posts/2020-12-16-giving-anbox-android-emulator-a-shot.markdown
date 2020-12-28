@@ -2,7 +2,8 @@
 layout: post
 title:  "Giving Anbox Android emulator a shot"
 date:   2020-12-16 08:07:08 -0800
-categories: blog android
+category: blog
+tags: [android, linux_desktop]
 ---
 
 ![Anbox window open on Pop_OS desktop](https://obscurednarration.com/wp-content/uploads/2020/12/2020-12-15_19-31.png)
