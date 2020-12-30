@@ -12,25 +12,19 @@ View, comment, or download the original markdown file.
 
 [Google Drive](https://drive.google.com/file/d/1u4TB2Wb1gfdlIh9S96-st6IEN2nWp3cR/view?usp=sharing)
 
-Read and submit changes on Github.
-
-[Github Page](https://cinimodev.github.io/)
-
 ### Listen to this post, narrated by me!
 
-
+[Listen now](https://obscurednarration.com/wp-content/uploads/2020/12/Blog-Embracing-disability-PUB.mp3)
 
 **Subscribe to get all narrated posts**
 
-**[RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)**
+[RSS](https://anchor.fm/s/8af59bc/podcast/rss) - [Spotify](https://gwth.us/dcttspotify) - [iTunes](https://gwth.us/dcttapple) - [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) - [Pocket Casts](https://pca.st/p5Fy) - [YouTube](https://www.youtube.com/dominiccorriveau) - [Breaker](https://www.breaker.audio/dc-talks-podcast) - [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) - [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)
 
 Although there are not many nice things to say about 2020 – including my journey through the economic crisis of being pandemic laid-off, being denied unemployment by the State of Arizona, then moving 2,000 miles across the country – there was one aspect of my life that has changed for the better. This is the year I finally accepted that I am hearing disabled.
 
 I didn’t have a sudden epiphany or a life-changing moment that I can point to as the singular moment that will mark the milestone. Instead, I was introduced to a myriad of people who have inspired me to be who I am and who work tirelessly to shine a light on the lives of the disabled.
 
 ### Back in the days when I was young
-
-
 In high school, I needed hearing aids. As a fairly toxic male, wrapped up in bro-culture as the captain of the football and wrestling teams, I refused to accept that I was somehow weaker than others. So, I refused to wear them. After graduating I got a job in a warehouse, which gave me the excuse to skip them because I could never have them in and function in a sweaty, loud warehouse.
 
 Occasionally I would get a new hearing test and it would show my hearing continually degrading. By the time I was 30 I could barely hold a conversation at a normal level without cupping my ears. I was the first in meetings so I could get a front-row seat. I always emailed people to ask if they had notes I could read.
@@ -40,8 +34,6 @@ The overwhelming machismo persisted in the office climate. I wasn’t hard-of-he
 At 34 I finally got a new set of hearing aids and started wearing them every day.
 
 ### I’m not a kid anymore
-
-
 Even when I started consistently wearing hearing aids, I would never say I was hard-of-hearing or even worse, that I was hearing disabled. The word “disabled” was off-limits. Yet, by 2019 my hearing had degraded to the point that meetings and conferences were impossible without them.
 
 In 2020, I realized I couldn’t watch movies anymore not just without hearing aids, but without subtitles. Even with the hearing aids, I’m far from having functional hearing. My wife has become my translator and goes with me everywhere in case I have a scenario where the person I’m attempting to communicate with is unable to accommodate and she has to step in. She has also started performing regular tasks I used to be able to do, such as making phone calls. With the pandemic, I’m up a creek with anyone wearing a mask. I don’t want anyone to take off their mask to speak with me, so I often skip scenarios where if I have to go without my wife.
