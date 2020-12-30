@@ -27,6 +27,12 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  
+# Extra settings
+blog: on                 # Show blog tag and post list (on | off)
+avatar: on               # Show avatar (on | off)
+avatar_image: "https://domcorriveau.me/wp-content/uploads/2020/04/IMG_4669-300x300.jpg"
+avatar_description: "Dominic Corriveau"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
