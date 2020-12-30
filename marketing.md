@@ -1,5 +1,3 @@
-
-
 # Marketer by Trade
 
 ![Banner with profile image of me plus personal brand icon for marketer, coach, and leader.](https://domcorriveau.me/wp-content/uploads/2020/04/Digital-Portfolio-Banner-Resume-Page-20200421.jpg)
@@ -14,15 +12,17 @@ On weekends and evenings, you can find me working in my home lab, building and e
 
 When not in my lab, you can find me on the trail, camping in the forest or enjoying classic 80s action movies that are so-bad-they’re-good. I am always looking for ways to create and connect with other people.
 
-<table style="width: 100%; border: 0">
+<table style="width: 100%">
   <tr>
-    <td><img src="https://domcorriveau.me/wp-content/uploads/2020/04/MG_8573-300x300.jpg"></td>
-    <td><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_20191211_110438-300x300.jpg"></td>
-    <td><img src="https://domcorriveau.me/wp-content/uploads/2020/04/headshot-2-300x300.jpg"></td>
+    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/MG_8573-300x300.jpg"></td>
+    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_20191211_110438-300x300.jpg"></td>
+    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/headshot-2-300x300.jpg"></td>
   </tr>
+</table>
+<table style="width: 100%; border: 0; text-align: center">
   <tr>
-    <td><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_3018-300x300.jpg" alt=""></td>
-    <td><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_1910-300x300.jpg" alt=""></td>
+    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_3018-300x300.jpg" alt=""></td>
+    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_1910-300x300.jpg" alt=""></td>
   </tr>
 </table>
 
@@ -50,19 +50,19 @@ When not in my lab, you can find me on the trail, camping in the forest or enjoy
 ## Accomplishments
 <table style="width: 100%; border: 0">
   <tr>
-    <th>Conference presentations</th>
-    <th>Awards</th>
+    <th style="border: 0">Conference presentations</th>
+    <th style="border: 0">Awards</th>
   </tr>
   <tr>
-    <td>Digital marketing in B2B <br> Jan. 2020</td>
-    <td>Marketing excellence award <br> 2009</td>
+    <td style="border: 0">Digital marketing in B2B <br> Jan. 2020</td>
+    <td style="border: 0">Marketing excellence award <br> 2009</td>
   </tr>
   <tr>
-    <td>Marketing value proposition <br> Oct. 2019</td>
-    <td>Marketing excellence award <br> Jan. 2012</td>
+    <td style="border: 0">Marketing value proposition <br> Oct. 2019</td>
+    <td style="border: 0">Marketing excellence award <br> Jan. 2012</td>
   </tr>
   <tr>
-    <td>Social media in B2B <br> Oct. 2017</td>
+    <td style="border: 0">Social media in B2B <br> Oct. 2017</td>
   </tr>
 </table>
 
@@ -71,7 +71,7 @@ When not in my lab, you can find me on the trail, camping in the forest or enjoy
 ## Skills
 <table style="width: 100%; border: 0">
   <tr>
-    <td>
+    <td style="border: 0">
       <ul>
         <li>Project management</li>
         <li>Team leadership & growth</li>
@@ -81,7 +81,7 @@ When not in my lab, you can find me on the trail, camping in the forest or enjoy
         <li>Vendor management & UAT</li>
         <li>Project insights & analytics</li>
     </td>
-    <td>
+    <td style="border: 0">
       <ul>
         <li>HTML, CSS, Javascript & Python</li>
         <li>Linux system administration & DevOps</li>
@@ -92,3 +92,4 @@ When not in my lab, you can find me on the trail, camping in the forest or enjoy
     </td>
   </tr>
 </table>
+</body>
