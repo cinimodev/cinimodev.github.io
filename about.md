@@ -3,6 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style type="text/css">
+   .image-left {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     float: right;
+   }
+   </style>
+
 ![CorrTek Marketing Solutions logo](http://corrteksolutions.com/wp-content/uploads/2020/10/CorrTek-Solutions-v1-Banner.png)
 
 Hi, I'm Dominic. I'm a digital marketing and project management professional, specializing in B2B. With over 15 years of experience, I'm well versed in creating, implementing and executing marketing strategy. From social media to high converting email campaigns, I can help build your business build awareness with an emphasis on conversion.
@@ -54,13 +63,13 @@ Subscribe below for a copy each Thursday afternoon (I'll be honest, sometimes Fr
 
 ### Tech Enthusiast
 
-In no way am I a digital native. After graduating high school, my only internet experience was making my MySpace page as loud as possible and finding websites that explained how to get viruses off my eMachines Windows XP desktop. I had a vision to where I wanted to be, and I had to get much better with modern technology.
+<img style="float: left; padding: 15px" src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_1995-225x300.jpg" alt="Picture of me at the kitchen table disassembling a laptop">
 
-![Picture of me at the kitchen table disassembling a laptop](https://domcorriveau.me/wp-content/uploads/2020/04/IMG_1995-225x300.jpg)
+In no way am I a digital native. After graduating high school, my only internet experience was making my MySpace page as loud as possible and finding websites that explained how to get viruses off my eMachines Windows XP desktop. I had a vision to where I wanted to be, and I had to get much better with modern technology.
 
 Luckily both Linux and the open-source world were there to teach me. For hours I taught myself the ins-and-outs of computing. The open-source world is full of people willing to help and I quickly grew to managing servers on my LAN then to the cloud. With Linux, apps, software and pretty much everything else in the FOSS world being free (as in cost and free as in freedom), I was able to explore endlessly.
 
-Growing up with little resources and then starting my own family on tight budgets has taught me a lot. When I first started learning about tech I would go to the Washington State Surplus store and purchase old Dell towers. Each tower would be converted into a Linux desktop or Kodi box. I've never had a budget for the latest and greatest, but I know what tech makes possible.
+Growing up with little resources and then starting my own family on tight budgets has taught me a lot. When I first started learning about tech I would go to the Washington State Surplus store and purchase old Dell towers. Each tower would be converted into a Linux desktop or Kodi box. I've never had a budget for the latest and greatest, but I know what tech makes possible.  
 
 ### My HomeLab
 
@@ -69,3 +78,17 @@ Nearly all of my infrastructure and tech stack is made from recycled components,
 As of April 2020 this is my current lab.
 
 ![My homelab network map as a wire diagram](https://domcorriveau.me/wp-content/uploads/2020/04/Network-Map-20200423-1024x791.jpg)
+
+* * *
+
+### Contact me
+
+**Email**: obscurednarration@gmail.com  
+**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
+
+### Websites
+
+Digital marketing consultancy - **[CorrTek Marketing Solutions](https://corrteksolutions.com)**  
+Tech blogging, videos, & podcasts - **[Obscured Narration](https://obscurednarration.com)**  
+80's movie podcast - **[Go With The Heat Podcast](http://gowiththeheat.com)**  
+More about me - **[Digital portfolio](https://domcorrivea.me)**  
