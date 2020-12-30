@@ -12,7 +12,7 @@ On weekends and evenings, you can find me working in my home lab, building and e
 
 When not in my lab, you can find me on the trail, camping in the forest or enjoying classic 80s action movies that are so-bad-they’re-good. I am always looking for ways to create and connect with other people.
 
-<table style="width: 100%">
+<table style="width: 100%; border: 0">
   <tr>
     <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/MG_8573-300x300.jpg"></td>
     <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_20191211_110438-300x300.jpg"></td>
@@ -92,4 +92,3 @@ When not in my lab, you can find me on the trail, camping in the forest or enjoy
     </td>
   </tr>
 </table>
-</body>
