@@ -80,6 +80,7 @@ When not in my lab, you can find me on the trail, camping in the forest or enjoy
         <li>Relationship management</li>
         <li>Vendor management & UAT</li>
         <li>Project insights & analytics</li>
+      </ul>
     </td>
     <td style="border: 0">
       <ul>
