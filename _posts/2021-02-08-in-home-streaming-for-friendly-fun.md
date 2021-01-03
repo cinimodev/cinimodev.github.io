@@ -16,7 +16,7 @@ Read and submit changes on Github.
 
 #### Listen to this post, narrated by me!
 
-<audio file>
+[audio file](#)  
 
 #### Subscribe to get all narrated posts
 
