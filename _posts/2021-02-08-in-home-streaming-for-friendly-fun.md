@@ -1,5 +1,3 @@
-OBS, virtual cams, and remote work
-========================
 ---
 layout: post
 title:  "Streaming at home with NDI and virtual cams for family fun"
