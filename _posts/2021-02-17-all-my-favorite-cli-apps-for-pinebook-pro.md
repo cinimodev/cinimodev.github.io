@@ -4,6 +4,7 @@ title:  "Building the perfect CLI-only laptop with the Pinebook Pro"
 date:   2021-02-17 08:07:08 -0800
 category: blog
 tags: [linux_desktop, cli_apps, tui_apps, pinebook_pro]
+---
 
 # CLI Apps
 
@@ -66,7 +67,6 @@ $ sudo snap install bpytop
 ```
 
 ### Files
-- Serve
 
 **mc(Midnight Commander)**  
 Very simple to use file manager which behaves more like a GUI file manager instead of `cd` or `ls` all the time. Works out perfect for navigating Notes and other files from WebDav.
