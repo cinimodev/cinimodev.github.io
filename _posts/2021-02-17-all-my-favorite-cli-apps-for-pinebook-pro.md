@@ -12,14 +12,18 @@ tags: [linux_desktop, cli_apps, tui_apps, pinebook_pro]
 These are popular and baked right into the OS.  
 
 - nmcli
-- nm-tui
+- [nm-tui](https://www.tecmint.com/nmtui-configure-network-connection/)
 
 **speed-test**  
 Went with this snap instead of `fast` because `fast` is not available for arm64 and I want to use on my Pinebook Pro. Instead I'm using `speed-test`.
 
+# [bartaz](https://github.com/bartaz) / **[speed-test-snap](https://github.com/bartaz/speed-test-snap)**
+
 ### CLI Management
 
 **Fish Shell**  
+
+[Finally, a command line shell for the 90s](https://fishshell.com)
 
 This is much better than the standard bash shell. The directions on their site weren't the way I needed to set it up, however.
 
@@ -43,12 +47,18 @@ $ chsh -s /usr/bin/fish
 
 **Terminator**  
 
+[Terminator terminal emulator](https://gnome-terminator.org)
+
 Setting this up as the terminal to open at boot on the Pinebook Pro. Since this laptop still has a desktop environment, I still want it to boot straight to a terminal emulator. I have it set to autolaunch with these commands:
 
 * `-m` to maximize window
 * `-x tmux` to execute tmux
 
 **Tmux**   
+
+[tmux](https://github.com/tmux) / **[tmux](https://github.com/tmux/tmux)**  
+[https://tmuxcheatsheet.com/](https://tmuxcheatsheet.com/)  
+
 Reading [Popey's blog](https://popey.com/blog/2021/02/command-line-only-laptop/), he has a short bash script set to run to spawn windows running specific apps. This is a simple script that I added one option so that each of the windows are named for easy recognition.
 
 ```
@@ -60,6 +70,9 @@ tmux new-window newsboat -n newsboat
 The flag `-n` is to give the window a name. I put this in `~/bin` in a file tilted "apps", then `chmod +x` to make it executable. Once the terminal opens, just run the script and all the services will spawn.
 
 **bpytop**  
+
+[aristocratos](https://github.com/aristocratos) / **[bpytop](https://github.com/aristocratos/bpytop)**
+
 A very nice looking system monitoring tool and available as a snap.
 
 ```
@@ -69,6 +82,9 @@ $ sudo snap install bpytop
 ### Files
 
 **duf**  
+
+[muesli](https://github.com/muesli) / **[duf](https://github.com/muesli/duf)**
+
 A disk usage analyzer for CLI that has a clean interface. It is essentially a TUI interface for `df` and `du` in one.
 
 Written in Go and has installers for basically every architecture under the sun, including arm64. See all the notes and releases here - [muesli/duf - Github](https://github.com/muesli/duf).
@@ -81,7 +97,10 @@ $ duf
 
 Or pass the path/location at launch.
 
-**mc(Midnight Commander)**  
+**mc**
+
+[Midnight Commander](https://midnight-commander.org)
+
 Very simple to use file manager which behaves more like a GUI file manager instead of `cd` or `ls` all the time. Works out perfect for navigating Notes and other files from WebDav.
 
 I wish I could use this while in `cadaver`, but that tool requires to `pull` documents to edit, then `put` to replace.
@@ -151,6 +170,8 @@ $ funcsave smb_cloud_bay
 Will need to make this for each one of the mounts, but will do it as I run into a situation I need access.
 
 **vdirsyncer**  
+
+[pimutils](https://github.com/pimutils) / **[vdirsyncer](https://github.com/pimutils/vdirsyncer)**
 
 A good reference guide for setting up and using a CLI calendar: [Terminal calendar with Khal](https://www.dj-bauer.de/terminal-calendar-with-khal-en.html)  
 
@@ -244,6 +265,9 @@ and add:
 ### Email / Comms
 
 **OfflineIMAP**  
+
+[OfflineIMAP](https://github.com/OfflineIMAP) / **[offlineimap](https://github.com/OfflineIMAP/offlineimap)**
+
 A tool to download all email from IMAP to a folder on the local machine. The configuration options are deep and complex. I have a working version of the file on the Pinebook Pro.
 
 There is one gotcha to pay attention to and it has to do with the snap version. The "home" directory it is operates in and looks for files is in `/home/<user>/snap/<number>` not the user home directory in $PATH. For example, if you tell it the configuration file is in `~/Mail` it is going to look in `/home/<user>/snap/299/Mail` for the file, not `/home/<user>/Mail`.
@@ -302,6 +326,9 @@ $ chmod 600 /home/<user>/snap/299/.config/<file_name>
 ```
 
 **Mutt**  
+
+[The Mutt E-Mail Client](http://www.mutt.org)
+
 The standard for all terminal email clients.
 
 Once again, I ran into troubles with where files should live with a snap. In this case the configuration file `.muttrc` needs to live in `/home/<user>/snap/mutt/common` and not in the `../snap/mutt/appnumber` folder most other snaps use. After much fiddling I finally figured this out when I ran `snap info mutt` and it was the only note.
@@ -351,6 +378,8 @@ set sort = "reverse-date-received"
 
 **Todoman**
 
+[pimutils](https://github.com/pimutils) / **[todoman](https://github.com/pimutils/todoman)**
+
 This is the CLI todo application I've started with. I would prefer it to be a curses-style application that I can just leave in an open tab, but this is okay because it works with Nextcloud Tasks, which writes the tasks to a calendar. This means can sync using any CalDAV client. On the CLI I am using `vdirsyncer` to pull down the ICS files for CalDAV, then using Todoman to manage on Pinebook Pro.
 
 First, get Todoman installed and setup the configuration folder and file:
@@ -392,6 +421,8 @@ This interface will give you prompts for start and due date, priority, descripti
 
 
 **calcurse**  
+
+[calcurse](https://www.calcurse.org)
 
 This is the best looking TUI application for calendar. But, I just couldn't wrap my head around how to configure it to work with a CalDAV setup. Took me forever to realize `calcursre-caldav` wasn't a separate package, but a utility built into `calcurse` itself.
 
@@ -482,6 +513,8 @@ The official documenation for `calcurs-caldav`:
 
 **straw-viewer**
 
+[trizen](https://github.com/trizen) / **[straw-viewer](https://github.com/trizen/straw-viewer)**
+
 A YouTube CLI client that also has a GTK frontend. I've used this before for the frontend to avoid going to the YouTube website. This time I'm only using the CLI client and mostly so I can search for YouTube videos from CLI.
 
 This is written in perl, so had to install a bunch of dependencies.
@@ -536,6 +569,8 @@ Runs great and I'm very happy to have this on my Pinebook Pro. If I do want to w
 
 **Castero**  
 
+[xgi](https://github.com/xgi) / **[castero](https://github.com/xgi/castero)**
+
 A terminal podcatcher and podcast player. The key I was looking for was a way to stream podcasts and not just a downloader. Castero will do both with a pretty good looking interface. It is a Python app, but has support for arm64.
 
 To install:
@@ -564,9 +599,14 @@ $ castero --import /path/opml_file
 
 **ncspot**  
 
+[hrkfdn](https://github.com/hrkfdn) / **[ncspot](https://github.com/hrkfdn/ncspot)**
+
 Easy enough. Install then run and login. Writes the username/password to file so then any terminal that launches it will automatically login.  
 
 ### Passwords
+
+[KeePassXC](https://keepassxc.org/project/)
+
 KeePassXC has a built in CLI client, which can be installed even on a headless system. This does require `xclip` to be installed as well.
 
 Once installed, invoke with:
@@ -633,6 +673,8 @@ keybase-20160730> clip /General/todoist.com
 ```
 
 #### News
+
+[Newsboat](https://newsboat.org)
 
 I could not find a ncurses feed reader client that also supports FreshRSS connections. Instead, just using Newsboat and importing the OPML. Newsboat is in the repos and to import the OMPL just do:
 
