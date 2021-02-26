@@ -17,7 +17,7 @@ These are popular and baked right into the OS.
 **speed-test**  
 Went with this snap instead of `fast` because `fast` is not available for arm64 and I want to use on my Pinebook Pro. Instead I'm using `speed-test`.
 
-# [bartaz](https://github.com/bartaz) / **[speed-test-snap](https://github.com/bartaz/speed-test-snap)**
+[bartaz](https://github.com/bartaz) / **[speed-test-snap](https://github.com/bartaz/speed-test-snap)**
 
 ### CLI Management
 
@@ -722,7 +722,6 @@ $ funcsave wttr
 ```
 
 and done.
-
 
 ### Remaining apps & Research
 * Twitter (might have figured out Rainbow Stream, notes coming soon)
