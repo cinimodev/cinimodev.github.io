@@ -49,7 +49,7 @@ Setting this up as the terminal to open at boot on the Pinebook Pro. Since this 
 * `-x tmux` to execute tmux
 
 **Tmux**   
-Reading Popey's blog, he has a short bash script set to run to spawn windows running specific apps. This is a simple script that I added one option so that each of the windows are named for easy recognition.
+Reading [Popey's blog](https://popey.com/blog/2021/02/command-line-only-laptop/), he has a short bash script set to run to spawn windows running specific apps. This is a simple script that I added one option so that each of the windows are named for easy recognition.
 
 ```
 #! /bin/bash  
@@ -67,6 +67,19 @@ $ sudo snap install bpytop
 ```
 
 ### Files
+
+**duf**  
+A disk usage analyzer for CLI that has a clean interface. It is essentially a TUI interface for `df` and `du` in one.
+
+Written in Go and has installers for basically every architecture under the sun, including arm64. See all the notes and releases here - [muesli/duf - Github](https://github.com/muesli/duf).
+
+Run with:
+
+```
+$ duf   
+```
+
+Or pass the path/location at launch.
 
 **mc(Midnight Commander)**  
 Very simple to use file manager which behaves more like a GUI file manager instead of `cd` or `ls` all the time. Works out perfect for navigating Notes and other files from WebDav.
@@ -363,6 +376,20 @@ default_due = 48
 
 That's it. When `todoman` is run, it will use the `.ics` files that are in the folder and when new tasks are added by `todoman` it will create an `.ics. file and be accessible in all the other notes apps, including Nextcloud Notes, Tasks.og, and Gnome To Do.
 
+There is an awesome tabbed interface that makes entering and editing tasks much easier. First need to install `click-repl`:
+
+```
+$ pip3 install --user click-repl  
+```
+
+Then, when launching the app, use the `repl` flag to enter the new interface.
+
+```
+$ todoman repl
+```
+
+This interface will give you prompts for start and due date, priority, description, etc.. Once in the `click-repl` interface you can even run `new --interactive` and it will walk you through all the options for adding a task.
+
 
 **calcurse**  
 
@@ -612,6 +639,13 @@ I could not find a ncurses feed reader client that also supports FreshRSS connec
 ```
 $ newsboat -I <file>
 ```
+
+You can manually add new RSS feeds by editing the "urls" file.
+
+```
+$ nano ~/snap/<number>/.newsboat/urls
+```
+
 #### Weather
 
 [wttr.in](https://github.com/chubin/wttr.in) to get nice looking weather on CLI very fast. Easy to invoke, no installation needed, just run:
@@ -648,9 +682,10 @@ $ funcsave wttr
 and done.
 
 
-### Missing
-- Discord
-- Twitter
+### Remaining apps & Research
+* Twitter (might have figured out Rainbow Stream, notes coming soon)
+* Discord (unlikely)
+* XMPP
 
 * * *  
 
