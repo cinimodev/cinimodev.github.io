@@ -30,10 +30,9 @@ plugins:
   - jekyll-include-cache
   
 # Extra settings
-blog: on                 # Show blog tag and post list (on | off)
-avatar: on               # Show avatar (on | off)
-avatar_image: "https://drive.google.com/file/d/1uhFaQCZoynBtA_rgON4g0ACH9HDdLtMi/view?usp=sharing"
-avatar_description: "Dominic Corriveau"
+logo: "https://drive.google.com/file/d/1uhFaQCZoynBtA_rgON4g0ACH9HDdLtMi/view?usp=sharing"
+search_enabled: true
+color_scheme: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
