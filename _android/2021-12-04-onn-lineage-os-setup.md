@@ -33,7 +33,7 @@ Last is you'll need to be able to see what is happening from the output of the d
 
 I also created a video of the walkthrough below if that helps you get everything installed. This way you can see what happens on the device as the commands are run. You can watch that here:
 
-https://youtu.be/vLR-b2pZ8Sw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLR-b2pZ8Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Step one
 

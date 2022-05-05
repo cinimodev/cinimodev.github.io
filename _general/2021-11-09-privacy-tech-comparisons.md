@@ -10,7 +10,7 @@ One of the challenges of taking on a privacy-first approach to tech, and when re
 
 For example, last week was my sons birthday and he received a new phone. We were able to get a pretty good deal on a refurbished Samsung Galaxy S10e, which is a significant upgrade from the Nexus 5x he has been using for the last two years. So with him off playing with his new phone and a [Razer Kishi](https://www.razer.com/mobile-controllers/razer-kishi/RZ06-03360100-R3U1) controller for XBox cloud streaming (seriously in love with that experience), I got a chance to tinker and experiment with the old Nexus 5x. First on my list was installing a custom ROM and started with [/e/ OS](https://e.foundation/), a de-Googled version of Android.
 
-https://youtu.be/I-_wIktaUK4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-_wIktaUK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I've spoken a lot about this project over the last few years, including many, many posts about using it on a Honor 5x for about a year. For as much as I loved using it on that device, it was far from perfect. This has very little to do with the ROM and is almost entirely the truly ancient hardware I was using. Apps are slow to open, camera is muddy and low quality, screen is low resolution and refresh rate. It is a $200 phone from 2015. Even when it was new the hardware wasn't performant.
 

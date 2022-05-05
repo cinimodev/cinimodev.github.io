@@ -25,10 +25,12 @@ This is a very established way of installing Android apps on the desktop. You ca
 
 ## Install the Anbox snap
 I ended up going the snap route, which installing the Anbox snap is very simple:
+```
+$ sudo snap install --devmode --beta anbox
+```
 
- `$ sudo snap install --devmode --beta anbox`  
 There are a couple notes in the Git repo about running the snap, in particular it using `--devmode` and automatic updates.
-
+* * *
 > At the moment we require the use of --devmode as the Anbox snap is not yet fully confined. Work has started with the upstream snapd project to get support for full confinement.
 >  
 > As a side effect of using --devmode the snap will not automatically update. In order to update to a newer version you can run:
@@ -37,7 +39,7 @@ There are a couple notes in the Git repo about running the snap, in particular i
 > Information about the currently available versions of the snap is available via:
 >  
 > `$ snap info anbox`
-
+* * *
 
 [Anbox Github](ttps://github.com/anbox/anbox/blob/master/README.md)  
 

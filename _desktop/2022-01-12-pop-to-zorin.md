@@ -15,7 +15,7 @@ On my main workstation I have three ZFS pools for all of my files. Each pool is 
 
 Recently, Pop_OS has decided to push Linux kernels to the OS faster than what their base of Ubuntu does. This is important to them because they are known for being a great option for gaming and they have their own hardware they ship. Newer kernels mean better support for new hardware and the latest drivers for gaming. They have been able to roll out kernel 5.15 and are hot on the heels of 5.16. 
 
-https://nitter.snopyta.org/jeremy_soller/status/1480330088868630529#m
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Definitely going to evaluate 5.16 for Pop!_OS tomorrow ;-) <a href="https://t.co/oS7KJ0OnTH">https://t.co/oS7KJ0OnTH</a></p>&mdash; Jeremy Soller (@jeremy_soller) <a href="https://twitter.com/jeremy_soller/status/1480330088868630529?ref_src=twsrc%5Etfw">January 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 When they updated Pop kernel 5.13 to 5.15 and my ZFS pools broke. This is nothing they did, except roll a newer kernel than what `zfs-dkms` and `zfsutils-linux` support. For a day or so I struggled to figure out what was going on. For me this was worse than my Nextcloud server going down. If that happens I have backups of the files locally in a ZFS pool. I can work locally until I get the server fixed, then sync all my new files. Not being able to mount my ZFS pools mean the files are totally inaccessible on my local machine. The drives are there, they work fine, my OS doesn't recognize them. 
 
@@ -35,7 +35,7 @@ I get it, these are minor fixes and with time a lot of them do get fixed. But I 
 
 This is not to say I don't like updates altogether. I just don't mind being 6 months or a year behind. All of my computers are hardware from at least a half decade ago. I have a budget of exactly $0 for new hardware and focus on always using upcycled or refurbished hardware. It is something I talk about a lot.
 
-https://www.youtube.com/watch?v=gRUlyKbmO2s&t=36s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gRUlyKbmO2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 These frequent kernel updates had me concerned. How long until something is broken again? Which update will break access to my ZFS pools again? 
 

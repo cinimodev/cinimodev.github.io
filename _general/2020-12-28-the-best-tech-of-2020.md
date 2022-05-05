@@ -5,13 +5,6 @@ date:   2020-12-28 08:07:08 -0800
 category: blog
 tags: [best_tech, linux_desktop, 2020,]
 ---
-
-![2020 Shift in Tech Priority](https://obscurednarration.com/wp-content/uploads/2020/12/Blog-2020-Fav-Tech-20201217.png)
-
-View the original GDoc file.
-
-[Download](https://drive.google.com/file/d/1qq4DM5VZ92rUCyqixIqc6oxiaTIuuVcp/view?usp=sharing)
-
 **Listen to this post. Narrated by me!**
 
 <iframe src="https://anchor.fm/dctalks/embed/episodes/The-Best-Tech-of-2020---A-New-Mindset-on-Ownership--DC-Tech-Talks-Podcast-env54j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
@@ -50,21 +43,6 @@ Would love to hear from you on this topic!
 
 **Email**: obscurednarration@gmail.com  
 **Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)  
-
-### Get more
-
-These blogs are just the tip of the iceberg. To go deeper and hear more stories around the tech and life around these journals, check out the **[DC Tech Talks Podcast](https://obscurednarration.com/podcast/)**.
-
-[Podcast RSS](https://feeds.feedburner.com/dctalkspodcast)
-
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/dc-talks-podcast/id1450176844?ign-mpt=uo%3D4&mt=2)
-
-[Spotify](https://open.spotify.com/show/7m4OY20Xmi1f5LEAkCqL2B)
-
-**Need even more?**
-Check out my sister podcast [Go With The Heat](http://gowiththeheat.com/). We just relaunched the show after going through all of the 80’s goodness that was Miami Vice. The updated show is now going deeper into the greatest era of action movies, 1975 – 1995.
-
-[Go With The Heat Podcast](http://gowiththeheat.com/)
 
 ### Digital marketing professional
 

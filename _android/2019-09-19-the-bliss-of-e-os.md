@@ -5,9 +5,6 @@ date:   2019-09-19 08:07:08 -0800
 category: blog
 tags: [android, phone_repair, roms,]
 ---
-
-![](https://obscurednarration.com/wp-content/uploads/2019/09/Can-Android-be-good-without-google_.png)
-
 **Listen to this post. Narrated by me!**
 
 <iframe src="https://anchor.fm/dctalks/embed/episodes/The-Bliss-of-e-OS--The-UnGoogled-Android--DC-Tech-Talks-Podcast---Ep--38-e5f1ot" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
@@ -58,8 +55,6 @@ I’m not sure why a user who is thinking about privacy and removing Google from
 For as magical as MicroG and the /e/ implementation is, by far my favorite aspect of the OS is their online services. From the beginning /e/ has made it clear that a mobile OS is more than just a skin on Android, but an entire ecosystem. Part of their ecosystem is a whole host of strong open-source cloud programs giving you a replacement for all the Google services not on the OS.
 
 The ecloud offering is essentially a professionally managed NextCloud service with office, calendar, contacts and email capabilities. It truly is a Google replacement for Drive, Gmail, Keep and Calendar. This doesn’t just work on the device. You can log into ecloud.global in the browser or use NextCloud desktop applications to sync your information. I exported some contacts from my Gmail and imported via the browser which appeared on my device moments later. Everything works as you would expect a Google or Apple cloud service.
-
-![](https://obscurednarration.com/wp-content/uploads/2019/09/Selection_015-1024x464.png)
 
 Seeing the NextCloud implementation was a double-win for me. First, using existing open-source programs instead of inventing their own means it comes with a broader ecosystem. Using the NextCloud client on my Ubuntu desktop and in the browser meant I didn’t have to live with one foot still in Google. Their instance also made me rethink my former NextCloud days as well. Secondly, seeing it professionally deployed and managed I finally see the real power of it instead of my half-baked attempts on my LAN. NextCloud has come really far and pro team maintaining it gives me confidence in their cloud service.
 

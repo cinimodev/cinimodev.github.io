@@ -5,26 +5,7 @@ date:   2021-02-08 08:07:08 -0800
 category: blog
 tags: [obs, ndi, virtual cam, linux_streaming, linux_desktop]
 ---
-
-![Step your OBS game up. Streaming at home for family friendly fun. 8-bit stylized image with OBS program logo.](https://obscurednarration.com/wp-content/uploads/2021/01/20201231_191455_0000.png)
-
 I’ve used [OBS](https://obsproject.com/) for a long time for game and screen recording. I was well aware that was barely scratching the surface of what it can do. Yet, that’s basically all I needed it for, mostly for screen recording training videos. I never had a reason to go deeper into OBS, but now I’ve spent my entire vacation learning deep diving after running some fun experiments based on ideas I had while watching a few of my favorite streamers. In particular, virtual cams and NDI streaming.
-
-View, comment, and download from Google Drive.
-
-[GDrive](https://docs.google.com/document/d/1ns9gNGH_z9AQAxQIRCg0sjwGegwjEtcgEGAmdpl-0ww/edit?usp=sharing)
-
-Read and submit changes on Github.
-
-[Github](https://cinimodev.github.io/)
-
-#### Listen to this post, narrated by me!
-
-[audio file](https://cinimodev.github.io/blog/2021/02/08/in-home-streaming-for-friendly-fun.html#)
-
-#### **Subscribe to get all narrated posts**
-
-**[RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [Apple](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)**
 
 Now that I’m playing more games with my kids, plus spending several hours a day in video conferencing for work, these two features of OBS has made it so much more fun. I’ve been using the NDI streaming to record my daughter and I play Minecraft, while using virtual cams to add overlays on my Zoom calls for work. Even though it is a flex, I love adding effects in team meetings like snow and looping gifs during the holidays.
 
@@ -51,8 +32,6 @@ Essentially, this allows you to enable another PC on your LAN as a source in OBS
 My 5 year old daughter is crazy about Minecraft. Originally she was playing it by herself and occasionally I would sit next to her. As a certified Minecraft junkie myself, I eventually setup a vanilla server on my homelab then later adding a map for Stampy’s Lovely World. Now my daughter and I can play together, on our own computers, in a playground she adores.
 
 A quick aside, there is a fantastic [Docker image](https://github.com/itzg/docker-minecraft-server) for running a Minecraft server. Using this container you can setup vanilla or modded Minecraft servers, along with a ton of other customizations. I run this on my LAN with the Stampy map, plus a coulpe other Forge servers with various mods for us to play. It is well documented and so much fun to build out with my little one.
-
-![Screenshot of my daughter Frankie and I playing Minecraft. We are in an orange room with bookshelves, spawning hundreds of polar bears.](https://obscurednarration.com/wp-content/uploads/2021/01/2021-01-02_18-39-1024x563.png)
 
 Naturally I wanted to record these game sessions. Using OBS NDI I have both of our streams going into a single OBS instance and tiling the feeds, along with some overlays I customize occasionally. I’m extremely hard-of-hearing so we use Mumble to voice chat together in-game, even though we sit very near each other. This way I can crank her volume way up and hear everything she’s saying. This also means I can easily integrate our microphones into OBS as audio sources and in the end I have a great looking and sounding recording I will cherish forever.
 

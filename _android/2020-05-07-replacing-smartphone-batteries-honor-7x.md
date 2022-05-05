@@ -5,10 +5,7 @@ date:   2020-05-07 08:07:08 -0800
 category: blog
 tags: [android, huawei, batteries]
 ---
-
-![](https://obscurednarration.com/wp-content/uploads/2020/05/The-necessity-of-phone-repair.png)
-
-Last week I wrote up a guide for [choosing and living with a budget Android device](https://obscurednarration.com/suddenly-need-a-budget-android-phone-start-here/), especially for people who have lost access to their company provided flagship phone. In that piece I mention the importance of repairability when selecting a device, using XDA and iFixIt for reviews and info before buying. This week I urgently repaired one of my mobile devices because of a swollen battery. This process was a solid reminder for me on why all phones should be easy to replace the battery and should be mandated from the beginning.
+Last week I wrote up a guide for [choosing and living with a budget Android device](https://cinimodev.github.io/android/2020-04-30-suddenly-need-budget-android-phone-start-here/), especially for people who have lost access to their company provided flagship phone. In that piece I mention the importance of repairability when selecting a device, using XDA and iFixIt for reviews and info before buying. This week I urgently repaired one of my mobile devices because of a swollen battery. This process was a solid reminder for me on why all phones should be easy to replace the battery and should be mandated from the beginning.
 
 There are plenty of reasons to make this accessible for more users, from environmental to economic. I realized after repairing my daughters Honor 7x, that I now have three devices in use after battery replacements, all of them repaired for a combined cost of $60.
 
@@ -21,9 +18,6 @@ There are plenty of reasons to make this accessible for more users, from environ
 [RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)
 
 * * *
-
-![Two screwdriver repair kits around the Honor 7x on black table.](https://obscurednarration.com/wp-content/uploads/2020/05/DCTT-Honor-7x-finished-1024x740.jpg)
-
 My workspace at the kitchen table for emergency repairs.
 
 ## Why it matters
