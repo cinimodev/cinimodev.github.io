@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Lite Apps on Android for the Masses"
 date:   2019-08-19 08:07:08 -0800
 category: blog
