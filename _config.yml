@@ -30,7 +30,7 @@ plugins:
   - jekyll-include-cache
   
 # Extra settings
-logo: "/assets/corrtek_logo.png"
+logo: "/assets/Logo-Video-Aspect-draft-mobo-cropped-20190103.png"
 search_enabled: true
 color_scheme: dark
 
@@ -50,21 +50,42 @@ theme: jekyll-theme-modernist
 
 # Define Jekyll collections
 collections:
+  personal:
+    permalink: "/:collection/:path/"
+    output: true
   android:
     permalink: "/:collection/:path/"
     output: true
   desktop:
     permalink: "/:collection/:path/"
     output: true
+  server:
+    permalink: "/:collection/:path/"
+    output: true
+  general:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
+    personal:
+      name: Personal News & Thoughts
+      nav_exclude: false
+      search_exclude: false
     android:
       name: Android
       nav_exclude: false
       search_exclude: false
     desktop:
       name: Linux Desktop
+      nav_exclud: false
+      search_exclude: false
+    server:
+      name: Linux Server
+      nav_exclud: false
+      search_exclude: false
+    general:
+      name: General Tech
       nav_exclud: false
       search_exclude: false
