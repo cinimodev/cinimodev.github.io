@@ -92,6 +92,6 @@ just_the_docs:
 # Aux links for the upper right navigation
 aux_links:
   "About Me":
-    - "https://cinimodev.github.io/about/
+    - "https://cinimodev.github.io/about/"
   "Marketing":
-    - "https://cinimodev.github.io/marketing.html
+    - "https://cinimodev.github.io/marketing.html"
