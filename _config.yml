@@ -47,3 +47,24 @@ color_scheme: dark
 #   - vendor/ruby/
 
 theme: jekyll-theme-modernist
+
+# Define Jekyll collections
+collections:
+  android:
+    permalink: "/:collection/:path/"
+    output: true
+  desktop:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    android:
+      name: Android
+      nav_exclude: false
+      search_exclude: false
+    desktop:
+      name: Linux Desktop
+      nav_exclud: false
+      search_exclude: false
