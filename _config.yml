@@ -89,3 +89,9 @@ just_the_docs:
       name: General Tech
       nav_exclud: false
       search_exclude: false
+# Aux links for the upper right navigation
+aux_links:
+  "About Me":
+    - "https://cinimodev.github.io/about/
+  "Marketing":
+    - "https://cinimodev.github.io/marketing.html
