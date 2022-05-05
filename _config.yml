@@ -30,7 +30,7 @@ plugins:
   - jekyll-include-cache
   
 # Extra settings
-logo: "https://drive.google.com/file/d/1uhFaQCZoynBtA_rgON4g0ACH9HDdLtMi/view?usp=sharing"
+logo: "/assets/corrtek_logo.png"
 search_enabled: true
 color_scheme: dark
 
