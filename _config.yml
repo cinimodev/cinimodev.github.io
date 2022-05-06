@@ -32,7 +32,7 @@ plugins:
 # Extra settings
 logo: "/assets/Logo-Video-Aspect-draft-mobo-cropped-20190103.png"
 search_enabled: true
-color_scheme: dark
+color_scheme: light
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
