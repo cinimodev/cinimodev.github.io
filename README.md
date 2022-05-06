@@ -4,6 +4,7 @@
 </div>
 
 <p style="text-align: center;">Opinions, reviews and general life evaluations from Dominic Corriveau through the lens of real people and the open-source community.</p>
+
 - [About me](https://cinimodev.github.io/about/)
 - [Marketing](https://cinimodev.github.io/marketing.html)
 - [Podcast](https://anchor.fm/dctalks)
