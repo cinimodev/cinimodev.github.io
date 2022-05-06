@@ -75,3 +75,15 @@ When not in my lab, you can find me on the trail, camping in the forest or enjoy
     </td>
   </tr>
 </table>
+## Content Marketing
+I believe one of my strongest skills is taking a complex topic and making it accessible for all audiences. Then, in addition to the blog, creating companion content to broaden the reach and optimize for long-tail keywords. 
+
+Here are some writing samples:
+
+[How to Prevent Fertilizer Burn During the Summer Months](https://news.ewingirrigation.com/blog/how-to-prevent-fertilizer-burn-during-the-summer-months/)  
+At my time at Ewing Irrigation one of my core competencies was agronomics. In this blog I wrote about how to apply fertilizer during the summer months and reduce the potential for burn from the warm temperatures and nitrogen release.
+[Marketing for Landscape Contractors - Finding Your Target Audience](https://corrteksolutions.com/blog/marketing-for-landscape-contractors-finding-your-target-audience/2020/12/18/)  
+This is a blog I wrote for my own website that serves as an introduction to marketing for landscapers, including some basic steps to take.
+[The Complete Guide to Home and Auto Insurance during Freezing Weather](https://crossinsuranceagency.com/the-complete-guide-to-home-and-auto-insurance-during-freezing-weather/)  
+A recent blog for Cross Insurance Agency that includes some technical insurance information, plus a companion video I produced and links to several other blogs I have written for them. 
+
