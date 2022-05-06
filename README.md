@@ -1,5 +1,5 @@
 # Obscured Narration
-<img src="/assets/on-logo-oval.png" alt="Obscured Narration blog logo" style="text-align: center;">
+<img src="/assets/on-logo-oval.png" alt="Obscured Narration blog logo" style="text-align: center;" />
 
 
 <p style="text-align: center;">Opinions, reviews and general life evaluations from Dominic Corriveau through the lens of real people and the open-source community.</p>

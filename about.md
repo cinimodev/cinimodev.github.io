@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-<style type="text/css">
-   .image-left {
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
-     float: right;
-   }
-   </style>
-
-![CorrTek Marketing Solutions logo](http://corrteksolutions.com/wp-content/uploads/2020/10/CorrTek-Solutions-v1-Banner.png)
+# About me
+<img style="float: center; padding: 15px" src="/assets/Digital-Portfolio-Banner-Resume-Page-20200421.jpg" alt="Me, wearing a blue suit next to my logo with my name in it.">
 
 Hi, I'm Dominic. I'm a digital marketing and project management professional, specializing in B2B. With over 15 years of experience, I'm well versed in creating, implementing and executing marketing strategy. From social media to high converting email campaigns, I can help build your business build awareness with an emphasis on conversion.
 
@@ -32,38 +24,10 @@ At the time, I was the manager of a wholesale distribution warehouse. But, I saw
 
 Being self-taught it is also important to me to continue to inspire others to join the digital marketing industry and connect with all the great information out there made by some incredible people. For the last year I've created and curated a newsletter all about digital marketing, being a coach and a leader to other marketing professionals, and how small businesses can use these digital tools to help them grow.
 
-Subscribe below for a copy each Thursday afternoon (I'll be honest, sometimes Friday mornings), or click through to see all of my previous versions with no subscriptions required.
-
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://corrteksolutions.us2.list-manage.com/subscribe/post?u=7c994da49426d574d45b242ee&amp;id=b1ca989098" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7c994da49426d574d45b242ee_b1ca989098" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
 
 ### Tech Enthusiast
 
-<img style="float: left; padding: 15px" src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_1995-225x300.jpg" alt="Picture of me at the kitchen table disassembling a laptop">
+<img style="float: left; padding: 15px" src="/assets/enthusiast-356x278.jpg" alt="Picture of me at the kitchen table disassembling a laptop">
 
 In no way am I a digital native. After graduating high school, my only internet experience was making my MySpace page as loud as possible and finding websites that explained how to get viruses off my eMachines Windows XP desktop. I had a vision to where I wanted to be, and I had to get much better with modern technology.
 
