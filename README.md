@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Obscured Narration by Dominic Corriveau</h1>
-<img src="/assets/Hello-840x350.png" alt="Obscured Narration blog logo" style="text-align: center;" />
+<img src="/assets/Hello-840x350.png" alt="A picture of me saying Hi, I'm Dominic." style="text-align: center;" />
 
 Hi, I'm Dominic. I'm the owner of [CorrTek Marketing Solutions](https://corrteksolutions.com) and a digital marketing and project management professional. I am also the co-owner of a landscape and irrigation contracting business with my brother called [The Sprinkler Geeks](https://thesprinklergeek.com).
 
