@@ -17,7 +17,7 @@ For the past 15+ years I’ve been making content on the internet. But, I’m in
 
 By 2006, I knew I had to do something different. I had built my brand and I was searching rapidly to expand my reach. Seeing how the rest of the world used the internet, especially social, it became clear what that path was for me personally and professionally.
 
-### **The wonderful world of open-source**
+#### The wonderful world of open-source
 
 Up to this point, my only internet experience was making my MySpace page as loud as possible and finding websites that explained how to get viruses off my eMachines Windows XP desktop. I had a vision to where I wanted to be, and I had to get much better with modern technology.
 
