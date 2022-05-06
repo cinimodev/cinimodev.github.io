@@ -41,18 +41,17 @@ Nearly all of my infrastructure and tech stack is made from recycled components,
 
 As of April 2020 this is my current lab.
 
-![My homelab network map as a wire diagram](https://domcorriveau.me/wp-content/uploads/2020/04/Network-Map-20200423-1024x791.jpg)
+![My homelab network map as a wire diagram](/assets/Network-Map-20200423-1024x791.jpg)
 
 * * *
 
 ### Contact me
 
 **Email**: obscurednarration@gmail.com  
-**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
+**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)  
+**Mastodon**: [https://mstdn.social/@cinimodev](https://mstdn.social/@cinimodev)
 
 ### Websites
 
 Digital marketing consultancy - **[CorrTek Marketing Solutions](https://corrteksolutions.com)**  
-Tech blogging, videos, & podcasts - **[Obscured Narration](https://obscurednarration.com)**  
 80's movie podcast - **[Go With The Heat Podcast](http://gowiththeheat.com)**  
-More about me - **[Digital portfolio](https://domcorrivea.me)**  

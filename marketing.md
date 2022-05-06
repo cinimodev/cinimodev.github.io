@@ -1,7 +1,5 @@
 # Marketer by Trade
 
-![Banner with profile image of me plus personal brand icon for marketer, coach, and leader.](https://domcorriveau.me/wp-content/uploads/2020/04/Digital-Portfolio-Banner-Resume-Page-20200421.jpg)
-
 Results driven, performance oriented team and project manager with 14+ years of proven experience. Ability to work cross-team, cross-function while maintaining long-term vision leveraging analytics within every process. Highly respected leader and coach, building trust across the entire stack.
 
 In constant pursuit of personal development. I produce a digital marketing newsletter, podcast and blogs. This includes additional blogs, podcasts and videos for technology topics. Full stack management of these including back-end server administration, pipeline, plus content creation.
@@ -11,20 +9,6 @@ Although my work history is in the landscape industry, I am fascinated with tech
 On weekends and evenings, you can find me working in my home lab, building and experimenting with Linux servers, Arduino’s, Raspberry Pi’s, and more. I believe computers can change people’s lives. I enjoy rummaging around old computers and phones, then repairing and giving away to anyone is in need.
 
 When not in my lab, you can find me on the trail, camping in the forest or enjoying classic 80s action movies that are so-bad-they’re-good. I am always looking for ways to create and connect with other people.
-
-<table style="width: 100%; border: 0">
-  <tr>
-    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/MG_8573-300x300.jpg"></td>
-    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_20191211_110438-300x300.jpg"></td>
-    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/headshot-2-300x300.jpg"></td>
-  </tr>
-</table>
-<table style="width: 100%; border: 0; text-align: center">
-  <tr>
-    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_3018-300x300.jpg" alt=""></td>
-    <td style="border: 0"><img src="https://domcorriveau.me/wp-content/uploads/2020/04/IMG_1910-300x300.jpg" alt=""></td>
-  </tr>
-</table>
 
 ## Experience
 
@@ -65,8 +49,6 @@ When not in my lab, you can find me on the trail, camping in the forest or enjoy
     <td style="border: 0">Social media in B2B <br> Oct. 2017</td>
   </tr>
 </table>
-
-![](https://domcorriveau.me/wp-content/uploads/2020/04/IMG_7440-1024x576.jpg)
 
 ## Skills
 <table style="width: 100%; border: 0">
