@@ -5,7 +5,9 @@ date:   2021-02-15 08:07:08 -0800
 category: blog
 tags: [minecraft, self-hosted, linux-server, gaming, blog,how-to]
 ---
-# Stampy's Lovelier World
+# Playing in my our Lovelier World | LAN Minecraft server setup guide
+*Feb. 15, 2021* 
+
 Having exclusively played the Java version of Minecraft for a decade, I was finally pulled into the Bedrock edition because of a new map from Stampy. In his recent videos he has been exploring his [Lovelier World](https://www.youtube.com/watch?v=kr45-OkOR4Y&t=1s) which my 5-year old has been devouring. Of course, this means I wanted to setup a server so both of us could play in Stampy's Lovelier World together.
 
 For the last 4 months we've been playing Minecraft every night before bed. We play for about a half hour and I've installed a couple custom maps with mods on a Java Edition server running in a Docker container. One of the maps is a version of Stampy's Lovely World, which I would consider to be our "home". When the "Lovelier World" landed I looked at the video description and excitedly discovered the creators have released the map for download!

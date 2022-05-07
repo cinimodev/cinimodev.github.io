@@ -5,6 +5,9 @@ date:   2021-01-25 08:07:08 -0800
 category: blog
 tags: [accessibility, disabled, hard-of-hearing, accessibile content]
 ---
+# Embracing my disability & addressing accessibility
+*Jan. 25, 2021*  
+
 Although there are not many nice things to say about 2020 – including my journey through the economic crisis of being pandemic laid-off, being denied unemployment by the State of Arizona, then moving 2,000 miles across the country – there was one aspect of my life that has changed for the better. This is the year I finally accepted that I am hearing disabled.
 
 I didn’t have a sudden epiphany or a life-changing moment that I can point to as the singular moment that will mark the milestone. Instead, I was introduced to a myriad of people who have inspired me to be who I am and who work tirelessly to shine a light on the lives of the disabled.

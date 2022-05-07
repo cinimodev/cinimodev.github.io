@@ -5,6 +5,9 @@ date:   2021-11-05 04:07:08 -0800
 category: blog
 tags: [personal, happiness]
 ---
+# Trying (and failing) to find something happy
+*Nov. 5, 2021*  
+
 I will admit, I am in a dark place a lot lately.
 
 Don't get this confused with not being able to go out. Refuse to let extroverts make introverts feel guilty for not going out in the public. I can 100% guarantee you that being around other people would fix my overall disposition. I find other people... Draining. Going out in public has the exact opposite effect on me. I dislike eating at restaurants, prefer to watch movies at home (where I can have real captions on the screen and not in some dumb box), and would never waste my time shopping in a store where they probably don't have what I'm looking for.

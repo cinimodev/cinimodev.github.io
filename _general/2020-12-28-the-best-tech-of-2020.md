@@ -5,13 +5,12 @@ date:   2020-12-28 08:07:08 -0800
 category: blog
 tags: [best_tech, linux_desktop, 2020,]
 ---
+# The Best Tech of 2020 – A New Mindset on Ownership
+*Dec. 28, 2020*  
+
 **Listen to this post. Narrated by me!**
 
 <iframe src="https://anchor.fm/dctalks/embed/episodes/The-Best-Tech-of-2020---A-New-Mindset-on-Ownership--DC-Tech-Talks-Podcast-env54j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-**Subscribe to get all narrated posts**
-
-[RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)
 
 Something I both love and loathe are end of year tech lists. Since affiliate income has proliferated online, nearly all of these lists are filled with products the writer has never used or even seen in real life. The lists are filled with items that are either in the perfect range for quality affiliate payouts or that are already so popular they sell themselves.
 

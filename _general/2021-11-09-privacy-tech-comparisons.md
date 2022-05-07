@@ -5,6 +5,8 @@ date:   2021-11-09 04:07:08 -0800
 category: blog
 tags: [privacy,slow_tech, right_to_repair]
 ---
+# Privacy, hardware, and unfair comparisons
+*Nov. 9, 2021*  
 
 One of the challenges of taking on a privacy-first approach to tech, and when recommending changes to other people, is the experience when changing hardware. As a Linux desktop enthusiast with a privacy emphasis and someone who installs third-party ROMs on my mobile, I spend a lot of time tinkering with old hardware. This is often for two reasons. One, I find it fun to refurbish old hardware for new uses. Two, I have an extremely low budget and acquiring old hardware is somewhere between cheap and free. But I often deal with very underwhelming experiences because I am using old hardware. I think this permeates through the user experience and leads to unfair comparisons that is stopping people from trying, and enjoying, alternative options with a privacy emphasis.
 
