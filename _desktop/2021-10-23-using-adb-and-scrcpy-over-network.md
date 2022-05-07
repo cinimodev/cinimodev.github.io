@@ -5,8 +5,9 @@ date:   2021-10-23 08:07:08 -0800
 category: blog
 tags: [android, scrcpy, adb, pop_os, networking]
 ---
+# Configuring wireless adb and Android screen mirroring with scrcpy on Pop_OS
+*Oct. 23, 2021*  
 
-# Android wireless adb & screen mirroring
 This is a way to connect to an Android device wirelessly through `adb`. Doing this will enable using `scrcpy` over the network, which is important because my phone cannot currently use it's USB-C port. 
 
 The downside to this setup is that you need to be able to connect to the device over USB at least once. 

@@ -6,6 +6,7 @@ category: blog
 tags: [linux_desktop, chrome_os, chrome, cloudready, neverware]
 ---
 # I'm thoroughly impressed with CloudReady on a nearly 8 year old Dell
+*Nov. 1, 2021*  
 
 Being able to re-purpose old hardware for modern uses is one of the pillars of tech I strongly believe in. I've been repairing PC's for over 10 years, trying to squeeze as much life out of hardware other people felt deserved to be in the trash heap. With this mindset, I recently had a chance to install [CloudReady](https://www.neverware.com/freedownload#intro-text) onto an old laptop for a coworker and I have to say: I am thoroughly impressed. 
 

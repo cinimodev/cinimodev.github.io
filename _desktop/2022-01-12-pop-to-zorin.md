@@ -5,6 +5,8 @@ date:   2022-01-12 04:07:08 -0800
 category: blog
 tags: [linux_desktop, pop_os, zorin_os, ubuntu_based, zfs]
 ---
+# Why I jumped from Pop_OS to Zorin OS 16
+*Jan. 12, 2022*  
 
 For the past few years I've been using Pop_OS on my primary desktop and I've been really happy. It has been solid as a rock, every update is smooth, and it seems to have more polish than other distros. However, in the last few weeks I've switched from Pop to [Zorin OS 16](https://zorin.com/) due to breakage of my workflows from updates. There is nothing wrong with Pop and it is still a great desktop OS. But it is not for me. 
 

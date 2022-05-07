@@ -5,6 +5,8 @@ date:   2022-02-04 04:07:08 -0800
 category: blog
 tags: [linux_desktop, docker, pinebook_pro]
 ---
+# Todoist CLI on the Pinebook Pro with Docker
+*Feb. 4, 2022*  
 
 I have switched back to Todoist after an extended period with Nextcloud Tasks. There's nothing wrong with Nextcloud Tasks and worked perfectly over the last year. However, I am now working as a marketing freelancer and separately a partner in a landscaping business. I wasn't able to work with Nextcloud Tasks both personally and as a project management tracker and I didn't want to use two different productivity services. It just makes way more sense for all my work and personal tasks to be one place. I tested several self-hosted solutions and none of them matched my workflows. So, back to Todoist, which I reluctantly left to begin with.
 

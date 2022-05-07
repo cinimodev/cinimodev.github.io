@@ -5,6 +5,9 @@ date:   2020-04-30 08:07:08 -0800
 category: blog
 tags: [android, budget_phone, lite_apps,]
 ---
+# Suddenly need a budget Android phone? Start here
+*April 30, 2020*  
+
 With the ongoing and upcoming economic catastrophe, this is causing individuals and companies to make hard financial decisions. One of which are mobile phones and associated carrier plans. People might be looking to cut their monthly expenses and looking for new carriers to reduce their monthly bill. Others might need to get an entire new phone, after handing in their previous flagship device back to their employer.
 
 I’m going to try to help with both of these scenarios. First, the hardware.

@@ -5,8 +5,8 @@ date:   2021-11-02 08:07:08 -0800
 category: blog
 tags: [firefox, chrome, browsers, oss, mozilla]
 ---
-
-![Screenshot of the Firefox browser open to the Wordpress admin page for this blog, with the tree style browsing extention open and a retro PowerPoint character pointing at the headline.](https://obscurednarration.com/wp-content/uploads/2021/11/Firefox-Blog.png)
+# Firefox is just the better browser. That’s the blog.
+*Nov. 2, 2021*  
 
 At this point the browser flame wars have been going on for three decades. If software freedom and privacy matter to you, even a small amount, then why are you still using Chrome?
 

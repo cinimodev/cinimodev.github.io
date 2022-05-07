@@ -5,8 +5,8 @@ date:   2020-12-28 00:07:08 -0800
 category: blog
 tags: android, andbox, linux_desktop,
 ---
-
-![Anbox window open on Pop_OS desktop](https://obscurednarration.com/wp-content/uploads/2020/12/2020-12-15_19-31.png)
+# Giving Anbox Android emulator a shot
+*Dec. 28, 2020*  
 
 **Listen to this post. Narrated by me!**
 

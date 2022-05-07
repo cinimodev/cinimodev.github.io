@@ -5,6 +5,9 @@ date:   2021-02-08 08:07:08 -0800
 category: blog
 tags: [obs, ndi, virtual cam, linux_streaming, linux_desktop]
 ---
+# Streaming at home with NDI and virtual cams for family fun
+*Feb. 8, 2021*  
+
 I’ve used [OBS](https://obsproject.com/) for a long time for game and screen recording. I was well aware that was barely scratching the surface of what it can do. Yet, that’s basically all I needed it for, mostly for screen recording training videos. I never had a reason to go deeper into OBS, but now I’ve spent my entire vacation learning deep diving after running some fun experiments based on ideas I had while watching a few of my favorite streamers. In particular, virtual cams and NDI streaming.
 
 Now that I’m playing more games with my kids, plus spending several hours a day in video conferencing for work, these two features of OBS has made it so much more fun. I’ve been using the NDI streaming to record my daughter and I play Minecraft, while using virtual cams to add overlays on my Zoom calls for work. Even though it is a flex, I love adding effects in team meetings like snow and looping gifs during the holidays.

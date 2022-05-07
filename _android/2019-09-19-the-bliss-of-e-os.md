@@ -5,14 +5,12 @@ date:   2019-09-19 08:07:08 -0800
 category: blog
 tags: [android, phone_repair, roms,]
 ---
+# The Bliss of /e/ OS – The UnGoogled Android
+*Sept. 19, 2019*  
+
 **Listen to this post. Narrated by me!**
 
 <iframe src="https://anchor.fm/dctalks/embed/episodes/The-Bliss-of-e-OS--The-UnGoogled-Android--DC-Tech-Talks-Podcast---Ep--38-e5f1ot" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-**Subscribe to get all narrated posts**
-
-[RSS](https://anchor.fm/s/8af59bc/podcast/rss) | [Spotify](https://gwth.us/dcttspotify) | [iTunes](https://gwth.us/dcttapple) | [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84YWY1OWJjL3BvZGNhc3QvcnNz) | [Pocket Casts](https://pca.st/p5Fy) | [YouTube](https://www.youtube.com/dominiccorriveau) | [Breaker](https://www.breaker.audio/dc-talks-podcast) | [Overcast](https://overcast.fm/itunes1450176844/dc-talks-podcast) | [Stitcher](https://www.stitcher.com/podcast/anchor-podcasts/dc-talks-podcast)
-
 
 One of the biggest factors I take into consideration before purchasing an Android phone is if it is supported by 3rd. party ROM’s. Previously I’ve run devices without Google Apps after installing LineageOS, which had significant speed and battery performance in addition to privacy upgrades. Last week I installed [/e/ OS](https://e.foundation/) on my Honor 5x after stumbling on it on Twitter. There’s a few aspects of this really unique OS that I feel merit a test for anyone who has a supported device.
 

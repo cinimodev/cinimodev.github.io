@@ -5,7 +5,8 @@ date:   2021-10-25 08:07:08 -0800
 category: blog
 tags: [linux_desktop, pop_os, gnome, gtk]
 ---
-# Gnome theming on Pop_OS
+# Gnome theming and tweaks on Pop_OS
+*Oct. 25, 2021*  
 
 Although the default theming from Pop_OS is nice and hasn't been a problem for the 2 years or so I've been daily driving it, for whatever reason I got the urge to play around with new Gnome themes. I believe this was largely driving by an interview with Pop_OS principal engineer [Jeremy Soller](https://twitter.com/jeremy_soller) on the [Opt Out Podcast](https://www.optoutpod.com/coreboot-foss-firmware-pop_os-and-system76-w-jeremy-soller-special/).
 

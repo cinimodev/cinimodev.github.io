@@ -5,6 +5,9 @@ date:   2019-08-19 08:07:08 -0800
 category: blog
 tags: [android, huawei, phone_repair, lite_apps,]
 ---
+# Lite Apps on Android for the Masses
+*Aug. 19, 2019*  
+
 The fact that lite apps are not available in all markets is a major problem. This is true for mainline apps from Facebook or Google and then unfortunately for apps from surprising sources like Mozilla. As your Android device ages these apps are lifelines to keeping functionality of older devices that are still perfectly fine to use, but modern apps are so bloated they run terribly on anything but recent flagships.
 
 One of the biggest benefits of Android is that you can make your hardware last longer. If you choose the right device, you can perform your own repairs, replace the battery and even install a custom ROM keeping the device up-to-date on software and security. A few months ago after a phone shuffle in our house, I ended up with an ancient [Honor 5x](https://www.pcmag.com/review/341391/huawei-honor-5x-unlocked) as my daily driver. 

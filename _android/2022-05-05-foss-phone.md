@@ -6,6 +6,8 @@ category: blog
 tags: [android, fossdroid, f-droid]
 ---
 # A (mostly) free Android phone
+*May 5, 2022*  
+
 This is how I've been testing a completely free phone, plus numerous blockers and ways to force looking at various websites in a free way. 
 
 ## F-Droid

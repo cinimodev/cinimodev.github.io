@@ -5,6 +5,9 @@ date:   2020-05-07 08:07:08 -0800
 category: blog
 tags: [android, huawei, batteries]
 ---
+# Replacing Smartphone Batteries – My Honor 7x Experience
+*May 7, 2020*  
+
 Last week I wrote up a guide for [choosing and living with a budget Android device](https://cinimodev.github.io/android/2020-04-30-suddenly-need-budget-android-phone-start-here/), especially for people who have lost access to their company provided flagship phone. In that piece I mention the importance of repairability when selecting a device, using XDA and iFixIt for reviews and info before buying. This week I urgently repaired one of my mobile devices because of a swollen battery. This process was a solid reminder for me on why all phones should be easy to replace the battery and should be mandated from the beginning.
 
 There are plenty of reasons to make this accessible for more users, from environmental to economic. I realized after repairing my daughters Honor 7x, that I now have three devices in use after battery replacements, all of them repaired for a combined cost of $60.

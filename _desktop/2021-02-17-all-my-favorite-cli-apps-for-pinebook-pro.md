@@ -5,8 +5,8 @@ date:   2021-02-17 08:07:08 -0800
 category: blog
 tags: [linux_desktop, cli_apps, tui_apps, pinebook_pro]
 ---
-
-# CLI Apps
+# Building the perfect CLI-only laptop with the Pinebook Pro
+*Feb. 17, 2021*  
 
 ### Networking
 These are popular and baked right into the OS.  

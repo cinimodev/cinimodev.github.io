@@ -5,6 +5,9 @@ date:   2021-12-04 04:07:08 -0800
 category: blog
 tags: [android, android_tv, lineageos]
 ---
+# Full walkthrough: Installing LineageOS on the Walmart onn. UHD streaming box
+*Dec. 4, 2021*  
+
 My OTT streaming interface of choice is Android TV. But, I have been constantly frustrated with the amount of bloatware that comes on my TV and the official [Google TV](https://store.google.com/us/product/chromecast_google_tv?hl=en-US) dongle/device. Ideally I would have an open-source based OS that isn't built to spy on my living room. At the very least I can remove bloatware and whatever my TV manufacturer is running in the background. This is why I was excited to learn that a group of people have figured out how to get a TV version of LineageOS on [Amlogic G12\*/SM1 family devices](https://forum.xda-developers.com/t/unofficial-lineageos-18-1-for-amlogic-g12-sm1-family-devices.4313743/) which includes the Chromecast with Google TV and the [Walmart onn UHD streaming device](https://www.xda-developers.com/lineageos-18-1-android-tv-11-walmart-onn-4k-dynalink-tv-box/).
 
 I have a Chromecast with Google TV device, but I didn't want to bork it playing around with installing an unofficial LineageOS build. Instead, I found that Walmart was running the onn UHD device on sale for the holidays at only $19. At that price it is worth the cost of admission to see if I can get it running and if I brick the device, it cost under $20 and I didn't ruin the only device I have for streaming.
