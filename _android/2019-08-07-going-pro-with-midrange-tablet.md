@@ -27,7 +27,7 @@ About six months ago I learned there are many ways to run a full, virtualized Li
 
 For those interested, here are some resources:
 
-- [AndroNix](https://andronix-app.gitbook.io/andronix-app/](https://andronix-app.gitbook.io/andronix-app/)
+- [AndroNix](https://andronix-app.gitbook.io/andronix-app/)
 - [UDroid](https://github.com/RandomCoderOrg/ubuntu-on-android)
 - [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd/wiki/What-is-UserLAnd%3F)
 
