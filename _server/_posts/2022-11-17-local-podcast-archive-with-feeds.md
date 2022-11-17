@@ -6,7 +6,7 @@ category: blog
 tags: [podcasts, rss, self-hosted, linux-server, docker, blog, how-to]
 ---
 # Archiving Podcasts & Serving Them in Local RSS Feeds | Internet-in-a-Box Project
-*Nov.. 17, 2022* 
+*Nov. 17, 2022* 
 
 This project is to setup the automatic downloading of podcasts onto my `internet-in-a-box` homelab box and then serve each podcast in their own custom, LAN-only RSS feed.
 
