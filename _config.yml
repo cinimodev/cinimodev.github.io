@@ -28,6 +28,13 @@ remote_theme: "just-the-docs/just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+feed:
+  categories:
+    - personal
+    - android
+    - desktop
+    - server
+    - general
   
 # Extra settings
 # logo: "/assets/Logo-Video-Aspect-draft-mobo-cropped-20190103.png"
