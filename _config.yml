@@ -35,6 +35,8 @@ feed:
     - desktop
     - server
     - general
+  collections:
+    - changes
   
 # Extra settings
 # logo: "/assets/Logo-Video-Aspect-draft-mobo-cropped-20190103.png"
