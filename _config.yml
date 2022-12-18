@@ -24,7 +24,7 @@ github_username:  cinimodev
 
 # Build settings
 markdown: kramdown
-remote_theme: "just-the-docs"
+remote_theme: "just-the-docs/just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -45,7 +45,7 @@ color_scheme: light
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: just-the-docs
+# theme: just-the-docs
 
 # Define Jekyll collections
 collections:
