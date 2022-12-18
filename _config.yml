@@ -24,9 +24,10 @@ github_username:  cinimodev
 
 # Build settings
 markdown: kramdown
-remote_theme: "just-the-docs/just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 plugins:
-   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-include-cache
 # Extra settings
 # logo: "/assets/Logo-Video-Aspect-draft-mobo-cropped-20190103.png"
 search_enabled: true
