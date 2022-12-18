@@ -66,17 +66,3 @@ For me the real eye-opener was their cloud services. I realized that not only wa
 
 I’m a big fan of what /e/ is trying to do. Without the overhead of managing a full custom operating system and allowing the entire Android ecosystem to function on their devices while providing a FOSS cloud it checks every box I would want out of a mobile OS. I don’t think I’ll be removing it any time soon and if the cloud continues to work as well as it has in these last 7 days, I’ll probably just sink deeper and deeper into their ecosystem.  
 
-* * *
-
-### Contact me
-
-Would love to hear from you on this topic!
-
-**Email**: obscurednarration@gmail.com
-**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
-
-### Digital marketing professional
-
-Into digital marketing? Get a newsletter all about the best stuff in digital marketing over the last week plus deep-dives into this industry.
-
-[Newsletter](https://corrteksolutions.com/marketing-mixer-newsletter/)

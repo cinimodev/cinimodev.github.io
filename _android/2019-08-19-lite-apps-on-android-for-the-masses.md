@@ -59,18 +59,3 @@ This is the best app on Android full stop. NewPipe is a YouTube viewer that allo
 I just started using this Reddit client. Same as all the others, it allows you to set how much data to use, how to load images and even set the subreddits with comments to offline mode. I’m not much of a Reddit user but trying to use more and this has been the best experience for me. 
 
 Not if only we could get more apps and app developers to follow this model with the core apps.  
-
-* * *
-
-### Contact me
-
-Would love to hear from you on this topic!
-
-**Email**: obscurednarration@gmail.com
-**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
-
-### Digital marketing professional
-
-Into digital marketing? Get a newsletter all about the best stuff in digital marketing over the last week plus deep-dives into this industry.
-
-[Newsletter](https://corrteksolutions.com/marketing-mixer-newsletter/)

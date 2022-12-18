@@ -5,7 +5,10 @@ date: 2022-12-13 01:07:08 -0800
 category: blog
 tags: [android, budget_phone, lite_apps,]
 ---
-*Update: Dec. 13, 2022*
+
+# Suddenly need a budget Android phone? Start here.
+*Update: Dec. 13, 2022*  
+
 I originally wrote this guide at the beginning of the pandemic, when many people I knew were losing their jobs and their company provided cell phone. With all signals pointing to a recession in 2023, I have updated this post with a few more notes and a phone I recommend.
 
 With the ongoing and upcoming economic catastrophe, this is causing individuals and companies to make hard financial decisions. One of which are mobile phones and associated carrier plans. People might be looking to cut their monthly expenses and looking for new carriers to reduce their monthly bill. Others might need to get an entire new phone, after handing in their previous flagship device back to their employer.

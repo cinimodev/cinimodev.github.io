@@ -13,4 +13,4 @@ This repository is my blog, tech notes, and general musings of my life. I also p
 
 
 ## Follow
-| [![Mastodon logo](/assets/mastodon.png)](https://mstdn.social/@cinimodev) | [![Twitter logo](/assets/twitter.png)](https://twitter.com/domcorriveau) | [![LinkedIn logo](/assets/linkedin.png)](https://linkedin.com/in/domcorriveau) | [![YouTube logo](/assets/youtube.png)](https://www.youtube.com/dominiccorriveau) | [![Instagram logo](/assets/instagram.png)](https://instagram.com/domcorriveau) | [![Facebook logo](/assets/facebook.png)](https://www.facebook.com/obscurednarration)
+| [![Mastodon logo](/assets/mastodon.png)](https://mstdn.social/@cinimodev) | [![LinkedIn logo](/assets/linkedin.png)](https://linkedin.com/in/domcorriveau) | [![YouTube logo](/assets/youtube.png)](https://www.youtube.com/dominiccorriveau) | [![Instagram logo](/assets/instagram.png)](https://instagram.com/domcorriveau) | [![Facebook logo](/assets/facebook.png)](https://www.facebook.com/obscurednarration)

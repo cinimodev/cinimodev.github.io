@@ -59,17 +59,3 @@ Installing the new battery was trivial and only took about 5 minutes. Within the
 
 This is possible and should be an emphasis for OEM’s. Yet greed in the upgrade cycle is keeping us from actually owning our devices.
 
-* * *
-
-### Contact me
-
-Would love to hear from you on this topic!
-
-**Email**: obscurednarration@gmail.com
-**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
-
-### Digital marketing professional
-
-Into digital marketing? Get a newsletter all about the best stuff in digital marketing over the last week plus deep-dives into this industry.
-
-[Newsletter](https://corrteksolutions.com/marketing-mixer-newsletter/)
