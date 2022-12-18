@@ -26,8 +26,7 @@ github_username:  cinimodev
 markdown: kramdown
 remote_theme: "just-the-docs/just-the-docs"
 plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+   - jekyll-include-cache
 # Extra settings
 # logo: "/assets/Logo-Video-Aspect-draft-mobo-cropped-20190103.png"
 search_enabled: true
@@ -45,7 +44,7 @@ color_scheme: light
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-modernist
+# theme: jekyll-theme-modernist
 
 # Define Jekyll collections
 collections:
