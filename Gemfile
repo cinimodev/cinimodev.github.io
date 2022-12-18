@@ -21,6 +21,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-feed"
+gem "just-the-docs"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
