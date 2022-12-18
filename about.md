@@ -48,7 +48,6 @@ As of April 2020 this is my current lab.
 ### Contact me
 
 **Email**: obscurednarration@gmail.com  
-**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)  
 **Mastodon**: [https://mstdn.social/@cinimodev](https://mstdn.social/@cinimodev)
 
 ### Websites
