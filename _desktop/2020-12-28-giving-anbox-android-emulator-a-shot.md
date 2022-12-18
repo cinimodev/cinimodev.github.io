@@ -85,18 +85,3 @@ I tried all three of the options listed on the Abox signature spoofing page to g
 It does work fantastically for F-Droid and non-GSF dependent apps. But the number of mobile apps I would run on my desktop that don’t already have a native version and/or replacement is minuscule.
 
 I have HUGE hopes for Ubuntu Web Remix and a direct collaboration with /e/ OS app store. Instead of attempting to roll-my-own Anbox + MicroG, this distro could solve that problem, including making the code available for others to easily implement a similar framework. Especially for a distro based on Ubuntu, like Ubuntu Web Remix and Pop_OS.  
-
-* * *
-
-### Contact me
-
-Would love to hear from you on this topic!
-
-**Email**: obscurednarration@gmail.com
-**Twitter**: [@domcorriveau](https://twitter.com/domcorriveau)
-
-### Digital marketing professional
-
-Into digital marketing? Get a newsletter all about the best stuff in digital marketing over the last week plus deep-dives into this industry.
-
-[Newsletter](https://corrteksolutions.com/marketing-mixer-newsletter/)
